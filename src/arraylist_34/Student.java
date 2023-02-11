@@ -1,6 +1,8 @@
 package arraylist_34;
 
 public class Student {
+	//arrayListdemo6
+	
 // id,name,salary
 	int id;
 	String name;
